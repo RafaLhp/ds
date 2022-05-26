@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ds2-banco/1.0.0": {
+        "runtime": {
+          "ds2-banco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ds2-banco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

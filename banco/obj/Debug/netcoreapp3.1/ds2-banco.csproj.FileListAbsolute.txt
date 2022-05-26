@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\ds2-banco\obj\Debug\netcoreapp3.1\ds2-banco.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ds2-banco\obj\Debug\netcoreapp3.1\ds2_banco.frmNovaconta.resources
+C:\Users\Aluno\Desktop\ds2-banco\obj\Debug\netcoreapp3.1\ds2-banco.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ds2-banco\obj\Debug\netcoreapp3.1\ds2-banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\ds2-banco\obj\Debug\netcoreapp3.1\ds2-banco.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\ds2-banco\obj\Debug\netcoreapp3.1\ds2-banco.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\ds2-banco\obj\Debug\netcoreapp3.1\ds2-banco.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ds2-banco\bin\Debug\netcoreapp3.1\ds2-banco.exe
+C:\Users\Aluno\Desktop\ds2-banco\bin\Debug\netcoreapp3.1\ds2-banco.deps.json
+C:\Users\Aluno\Desktop\ds2-banco\bin\Debug\netcoreapp3.1\ds2-banco.runtimeconfig.json
+C:\Users\Aluno\Desktop\ds2-banco\bin\Debug\netcoreapp3.1\ds2-banco.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\ds2-banco\bin\Debug\netcoreapp3.1\ds2-banco.dll
+C:\Users\Aluno\Desktop\ds2-banco\bin\Debug\netcoreapp3.1\ds2-banco.pdb
+C:\Users\Aluno\Desktop\ds2-banco\obj\Debug\netcoreapp3.1\ds2-banco.dll
+C:\Users\Aluno\Desktop\ds2-banco\obj\Debug\netcoreapp3.1\ds2-banco.pdb
+C:\Users\Aluno\Desktop\ds2-banco\obj\Debug\netcoreapp3.1\ds2-banco.genruntimeconfig.cache
