@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\Criatividade2\bin\Debug\netcoreapp3.1\Criatividade2.exe
+C:\Users\Aluno\source\repos\Criatividade2\bin\Debug\netcoreapp3.1\Criatividade2.deps.json
+C:\Users\Aluno\source\repos\Criatividade2\bin\Debug\netcoreapp3.1\Criatividade2.runtimeconfig.json
+C:\Users\Aluno\source\repos\Criatividade2\bin\Debug\netcoreapp3.1\Criatividade2.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\Criatividade2\bin\Debug\netcoreapp3.1\Criatividade2.dll
+C:\Users\Aluno\source\repos\Criatividade2\bin\Debug\netcoreapp3.1\Criatividade2.pdb
+C:\Users\Aluno\source\repos\Criatividade2\obj\Debug\netcoreapp3.1\Criatividade2.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Criatividade2\obj\Debug\netcoreapp3.1\Criatividade2.Form1.resources
+C:\Users\Aluno\source\repos\Criatividade2\obj\Debug\netcoreapp3.1\Criatividade2.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Criatividade2\obj\Debug\netcoreapp3.1\Criatividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Criatividade2\obj\Debug\netcoreapp3.1\Criatividade2.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Criatividade2\obj\Debug\netcoreapp3.1\Criatividade2.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Criatividade2\obj\Debug\netcoreapp3.1\Criatividade2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Criatividade2\obj\Debug\netcoreapp3.1\Criatividade2.dll
+C:\Users\Aluno\source\repos\Criatividade2\obj\Debug\netcoreapp3.1\Criatividade2.pdb
+C:\Users\Aluno\source\repos\Criatividade2\obj\Debug\netcoreapp3.1\Criatividade2.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Criatividade2\obj\Debug\netcoreapp3.1\Criatividade2.Form2.resources
