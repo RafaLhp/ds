@@ -1,0 +1,173 @@
+﻿
+namespace Quizinho
+{
+    partial class Form4
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form4));
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnAvancar = new System.Windows.Forms.Button();
+            this.btnVoltar = new System.Windows.Forms.Button();
+            this.rdbMaradona = new System.Windows.Forms.RadioButton();
+            this.rdbRonaldinho = new System.Windows.Forms.RadioButton();
+            this.rdbDrogba = new System.Windows.Forms.RadioButton();
+            this.rdbUmititi = new System.Windows.Forms.RadioButton();
+            this.rdbNavas = new System.Windows.Forms.RadioButton();
+            this.label1 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(12, 58);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(346, 255);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 17;
+            this.pictureBox1.TabStop = false;
+            // 
+            // btnAvancar
+            // 
+            this.btnAvancar.Location = new System.Drawing.Point(271, 462);
+            this.btnAvancar.Name = "btnAvancar";
+            this.btnAvancar.Size = new System.Drawing.Size(75, 23);
+            this.btnAvancar.TabIndex = 16;
+            this.btnAvancar.Text = "Avançar";
+            this.btnAvancar.UseVisualStyleBackColor = true;
+            this.btnAvancar.Click += new System.EventHandler(this.btnAvancar_Click);
+            // 
+            // btnVoltar
+            // 
+            this.btnVoltar.Location = new System.Drawing.Point(12, 463);
+            this.btnVoltar.Name = "btnVoltar";
+            this.btnVoltar.Size = new System.Drawing.Size(75, 23);
+            this.btnVoltar.TabIndex = 15;
+            this.btnVoltar.Text = "Voltar";
+            this.btnVoltar.UseVisualStyleBackColor = true;
+            this.btnVoltar.Click += new System.EventHandler(this.btnVoltar_Click);
+            // 
+            // rdbMaradona
+            // 
+            this.rdbMaradona.AutoSize = true;
+            this.rdbMaradona.Location = new System.Drawing.Point(12, 319);
+            this.rdbMaradona.Name = "rdbMaradona";
+            this.rdbMaradona.Size = new System.Drawing.Size(79, 19);
+            this.rdbMaradona.TabIndex = 14;
+            this.rdbMaradona.TabStop = true;
+            this.rdbMaradona.Text = "Maradona";
+            this.rdbMaradona.UseVisualStyleBackColor = true;
+            // 
+            // rdbRonaldinho
+            // 
+            this.rdbRonaldinho.AutoSize = true;
+            this.rdbRonaldinho.Location = new System.Drawing.Point(12, 344);
+            this.rdbRonaldinho.Name = "rdbRonaldinho";
+            this.rdbRonaldinho.Size = new System.Drawing.Size(86, 19);
+            this.rdbRonaldinho.TabIndex = 13;
+            this.rdbRonaldinho.TabStop = true;
+            this.rdbRonaldinho.Text = "Ronaldinho";
+            this.rdbRonaldinho.UseVisualStyleBackColor = true;
+            // 
+            // rdbDrogba
+            // 
+            this.rdbDrogba.AutoSize = true;
+            this.rdbDrogba.Location = new System.Drawing.Point(12, 369);
+            this.rdbDrogba.Name = "rdbDrogba";
+            this.rdbDrogba.Size = new System.Drawing.Size(64, 19);
+            this.rdbDrogba.TabIndex = 12;
+            this.rdbDrogba.TabStop = true;
+            this.rdbDrogba.Text = "Drogba";
+            this.rdbDrogba.UseVisualStyleBackColor = true;
+            // 
+            // rdbUmititi
+            // 
+            this.rdbUmititi.AutoSize = true;
+            this.rdbUmititi.Location = new System.Drawing.Point(12, 394);
+            this.rdbUmititi.Name = "rdbUmititi";
+            this.rdbUmititi.Size = new System.Drawing.Size(61, 19);
+            this.rdbUmititi.TabIndex = 11;
+            this.rdbUmititi.TabStop = true;
+            this.rdbUmititi.Text = "Umititi";
+            this.rdbUmititi.UseVisualStyleBackColor = true;
+            // 
+            // rdbNavas
+            // 
+            this.rdbNavas.AutoSize = true;
+            this.rdbNavas.Location = new System.Drawing.Point(10, 413);
+            this.rdbNavas.Name = "rdbNavas";
+            this.rdbNavas.Size = new System.Drawing.Size(57, 19);
+            this.rdbNavas.TabIndex = 10;
+            this.rdbNavas.TabStop = true;
+            this.rdbNavas.Text = "Navas";
+            this.rdbNavas.UseVisualStyleBackColor = true;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(174, 15);
+            this.label1.TabIndex = 9;
+            this.label1.Text = "Questão 4: Qual é esse jogador?";
+            // 
+            // Form4
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(456, 501);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.btnAvancar);
+            this.Controls.Add(this.btnVoltar);
+            this.Controls.Add(this.rdbMaradona);
+            this.Controls.Add(this.rdbRonaldinho);
+            this.Controls.Add(this.rdbDrogba);
+            this.Controls.Add(this.rdbUmititi);
+            this.Controls.Add(this.rdbNavas);
+            this.Controls.Add(this.label1);
+            this.Name = "Form4";
+            this.Text = "Form4";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button btnAvancar;
+        private System.Windows.Forms.Button btnVoltar;
+        private System.Windows.Forms.RadioButton rdbMaradona;
+        private System.Windows.Forms.RadioButton rdbRonaldinho;
+        private System.Windows.Forms.RadioButton rdbDrogba;
+        private System.Windows.Forms.RadioButton rdbUmititi;
+        private System.Windows.Forms.RadioButton rdbNavas;
+        private System.Windows.Forms.Label label1;
+    }
+}
