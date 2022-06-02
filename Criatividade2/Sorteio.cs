@@ -6,33 +6,31 @@ namespace Criatividade2
 {
     class Sorteio
     {
-        public int i;
-
-        public int time1;
-        public int time2;
-        public int time3;
-        public int time4;
-        public int time5;
-        public int time6;
-        public int time7;
-        public int time8;
-        public int time9;
-        public int time10;
-        public int time11;
-        public int time12;
-        public int time13;
-        public int time14;
-        public int time15;
-        public int time16;
+        public static String time1;
+        public static String time2;
+        public static String time3;
+        public static String time4;
+        public static String time5;
+        public static String time6;
+        public static String time7;
+        public static String time8;
+        public static String time9;
+        public static String time10;
+        public static String time11;
+        public static String time12;
+        public static String time13;
+        public static String time14;
+        public static String time15;
+        public static String time16;
 
 
-        public void sorteio()
+        /*public void sorteio()
         {
             for (int i = 0; i < 16; i++)
             {
 
             }
-        }
+        }*/
 
     }
 

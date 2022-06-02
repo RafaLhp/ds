@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9GtluVi2mJBbLv6QsaxOxKNgjwVBdUZxgSNmQa7QR7oNw1rkWwW0h7AB8JNC/PWwr8fKbmUcdw7zaCvCHXy7QA==",
+  "dgSpecHash": "sjSkahyIzqZoMzSsM9SOS3cZ301ZLWRY2UHty7vk+Vt2u2OMoGNKuo0zOHMvknCnfDI5QSYGjlZBVLW+mK5oHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\Criatividade2\\Criatividade2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\Criatividade2\\Criatividade2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
   "logs": []
 }

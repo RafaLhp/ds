@@ -24,10 +24,7 @@ namespace Criatividade2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //Sorteio sor = new Sorteio();
-
-            //sor.time1 = listBox1.Text;
-            //sor.time2 = listBox1.Text;
+            
         }
 
         private void btnLimpar_Click(object sender, EventArgs e)
@@ -78,11 +75,75 @@ namespace Criatividade2
 
         private void btnAdicionar_Click_1(object sender, EventArgs e)
         {
-            //Sorteio sor = new Sorteio();
+            Sorteio sor = new Sorteio();
 
             listBox1.Items.Add(Convert.ToString(cmbTimes.Text));
-            // sor.time1 = Convert.ToString(cmbTimes.Text);
-            // sor.time2 = Convert.ToString(cmbTimes.Text);
+            //Sorteio.time1 = cmbTimes.Text;
+
+            if (Sorteio.time1 == null)
+            {
+                Sorteio.time1 = cmbTimes.Text;
+            }
+            else if (Sorteio.time2 == null)
+            {
+                Sorteio.time2 = cmbTimes.Text;
+            }
+            else if(Sorteio.time3 == null)
+            {
+                Sorteio.time3 = cmbTimes.Text;
+            }
+            else if (Sorteio.time4 == null)
+            {
+                Sorteio.time4 = cmbTimes.Text;
+            }
+            else if (Sorteio.time5 == null)
+            {
+                Sorteio.time5 = cmbTimes.Text;
+            }
+            else if (Sorteio.time6 == null)
+            {
+                Sorteio.time6 = cmbTimes.Text;
+            }
+            else if (Sorteio.time7 == null)
+            {
+                Sorteio.time7 = cmbTimes.Text;
+            }
+            else if (Sorteio.time8 == null)
+            {
+                Sorteio.time8 = cmbTimes.Text;
+            }
+            else if (Sorteio.time9 == null)
+            {
+                Sorteio.time9 = cmbTimes.Text;
+            }
+            else if (Sorteio.time10 == null)
+            {
+                Sorteio.time10 = cmbTimes.Text;
+            }
+            else if (Sorteio.time11 == null)
+            {
+                Sorteio.time11 = cmbTimes.Text;
+            }
+            else if (Sorteio.time12 == null)
+            {
+                Sorteio.time12 = cmbTimes.Text;
+            }
+            else if (Sorteio.time13 == null)
+            {
+                Sorteio.time13 = cmbTimes.Text;
+            }
+            else if (Sorteio.time14 == null)
+            {
+                Sorteio.time14 = cmbTimes.Text;
+            }
+            else if (Sorteio.time15 == null)
+            {
+                Sorteio.time15 = cmbTimes.Text;
+            }
+            else if (Sorteio.time16 == null)
+            {
+                Sorteio.time16 = cmbTimes.Text;
+            }
         }
 
         private void rdbGrupoE_CheckedChanged_1(object sender, EventArgs e)
