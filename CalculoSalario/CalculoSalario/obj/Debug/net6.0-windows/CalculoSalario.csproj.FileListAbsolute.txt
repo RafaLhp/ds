@@ -1,0 +1,17 @@
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\CalculoSalario.csproj.AssemblyReference.cache
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\CalculoSalario.Form1.resources
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\CalculoSalario.csproj.GenerateResource.cache
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\CalculoSalario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\CalculoSalario.AssemblyInfoInputs.cache
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\CalculoSalario.AssemblyInfo.cs
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\CalculoSalario.csproj.CoreCompileInputs.cache
+D:\Projetos\CalculoSalario\CalculoSalario\bin\Debug\net6.0-windows\CalculoSalario.exe
+D:\Projetos\CalculoSalario\CalculoSalario\bin\Debug\net6.0-windows\CalculoSalario.deps.json
+D:\Projetos\CalculoSalario\CalculoSalario\bin\Debug\net6.0-windows\CalculoSalario.runtimeconfig.json
+D:\Projetos\CalculoSalario\CalculoSalario\bin\Debug\net6.0-windows\CalculoSalario.dll
+D:\Projetos\CalculoSalario\CalculoSalario\bin\Debug\net6.0-windows\CalculoSalario.pdb
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\CalculoSalario.dll
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\refint\CalculoSalario.dll
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\CalculoSalario.pdb
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\CalculoSalario.genruntimeconfig.cache
+D:\Projetos\CalculoSalario\CalculoSalario\obj\Debug\net6.0-windows\ref\CalculoSalario.dll
