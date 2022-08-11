@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "petHAS_Raquel_RafaelMelo/1.0.0": {
+        "runtime": {
+          "petHAS_Raquel_RafaelMelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "petHAS_Raquel_RafaelMelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

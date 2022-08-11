@@ -1,0 +1,17 @@
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.csproj.AssemblyReference.cache
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.Form1.resources
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.csproj.GenerateResource.cache
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.AssemblyInfoInputs.cache
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.AssemblyInfo.cs
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.csproj.CoreCompileInputs.cache
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\bin\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.exe
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\bin\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.deps.json
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\bin\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.runtimeconfig.json
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\bin\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.dll
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\bin\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.pdb
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.dll
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\refint\petHAS_Raquel_RafaelMelo.dll
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.pdb
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\petHAS_Raquel_RafaelMelo.genruntimeconfig.cache
+D:\Projetos\petHAS_Raquel_RafaelMelo\petHAS_Raquel_RafaelMelo\obj\Debug\net6.0-windows\ref\petHAS_Raquel_RafaelMelo.dll
